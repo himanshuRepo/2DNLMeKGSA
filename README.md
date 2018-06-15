@@ -8,6 +8,4 @@ The paper presents a novel two-dimensional (2D) histogram-based segmentation met
 Experiments demonstrate the potential of the proposed method through subjective and objective evaluation of
 the Berkeley Segmentation Dataset and Benchmark (BSDS300)
 
-**Download** paper from https://www.sciencedirect.com/science/article/pii/S0952197618300496
-
-**Code**: will soon upload.
+**Paper:** https://www.sciencedirect.com/science/article/pii/S0952197618300496
