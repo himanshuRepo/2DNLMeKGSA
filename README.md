@@ -13,4 +13,4 @@ This code is available for non-commercial purposes. Incase you find this useful 
 **Mittal, Himanshu, and Mukesh Saraswat. "An optimum multi-level image thresholding segmentation using non-local means 2D histogram and exponential Kbest gravitational search algorithm." Engineering Applications of Artificial Intelligence, pp. 226-235, Vol. 71, 2018.**
 
 To run the code, execute the following file:
-  - Main.m
+  - main.m
