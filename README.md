@@ -15,7 +15,7 @@ This code is available for non-commercial purposes. Incase you find this useful 
 To run the code, execute the following file:
   - main.m
 
-**Please refer the code at following link for the imageGRAY(I,Thresholds) function%% 
+**Please refer the code at following link for the imageGRAY(I,Thresholds) function** 
 
 https://in.mathworks.com/matlabcentral/fileexchange/47005-multilevel-thresholding-segmentation-based-on-harmony-search-optimization  
 
